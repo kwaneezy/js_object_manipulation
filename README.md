@@ -6,7 +6,6 @@ Below is the required output included in this assignment:
 
 [
   { "name": 26, "artist": 20, "description": 198, "url": 31, "alt": 90 },
-  
   { "name": 17, "artist": 16, "description": 188, "url": 32, "alt": 91 },
   
   { "name": 16, "artist": 19, "description": 272, "url": 31, "alt": 98 },
@@ -29,4 +28,5 @@ Below is the required output included in this assignment:
   
   { "name": 15, "artist": 14, "description": 229, "url": 31, "alt": 92 }
 ]
+
 
